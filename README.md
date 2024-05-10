@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bq8bkwu20ejhdqqc/branch/main?svg=true)](https://ci.appveyor.com/project/nagraiv/unit-test-matchers/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/bq8bkwu20ejhdqqc/branch/master?svg=true)](https://ci.appveyor.com/project/nagraiv/unit-test-matchers/branch/master)
 
 # Домашнее задание к лекции «Unit-тестирование» [ссылка](https://github.com/netology-code/ajs-homeworks/tree/ajs8/test-ci)
 
